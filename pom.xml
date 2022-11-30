@@ -14,7 +14,7 @@
 	<name>labmanagement</name>
 	<description>Azure Developer Capstone Lab Management</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 		<spring-cloud-azure.version>4.4.1</spring-cloud-azure.version>
 	</properties>
 	<dependencies>
